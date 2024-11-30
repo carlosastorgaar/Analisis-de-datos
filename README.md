@@ -1,3 +1,9 @@
 # Analisis-de-datos
 
-Voy a practicar mis aprendizajes en SQL y python.
+SQL
+  1)
+
+
+
+PYTHON
+  1)
